@@ -1,0 +1,12 @@
+<profile>:CAA|9/13/2016
+	name:Sit_up:rep/min:127r:dow:tue/thu/sat:inc:3:dis:0:wei:0:
+	name:Chin_up:rep/min:2r:dow:mon/wed/fri:inc:0:dis:0:wei:0:
+	name:Pull_up:rep/min:2r:dow:mon/wed/fri:inc:0:dis:0:wei:0:
+	name:Chair_Dip:rep/min:90r:dow:mon/wed/fri:inc:1:dis:1:
+	name:Plank:rep/min:77r:dow:mon/wed/fri:inc:1:dis:1:
+	name:Stretch_Legs:rep/min:10r:dow:mon/tue/wed/thu/fri/sat/sun:inc:0:dis:0:wei:0:
+	name:Pull_forward:rep/min:50r:dow:mon/wed/fri:inc:3:dis:0:wei:0:
+	name:Push_out:rep/min:40r:dow:tue/thu/satt:inc:3:dis:0:wei:1:
+	name:Extend_ups:rep/min:49r:dow:tue/thu:inc:3:dis:1:
+	name:Pull_down:rep/min:50r:dow:mon/wed/fri:inc:3:dis:0:wei:1:
+	name:Push_up:rep/min:79r:dow:tue/thu/sat:inc:3:dis:0:wei:0:

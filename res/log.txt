@@ -1,0 +1,313 @@
+<profile>:CAA
+	<log>:9/13/2016
+		Sit_up: 124r
+		Stretch_Legs: 10r
+		Push_out: 37r: 90
+		Push_up: 70r
+
+	<log>:9/10/2016
+		Sit_up: 80r
+		Stretch_Legs: 10r
+		Push_up: 79r
+
+	<log>:9/8/2016
+		Push_up: 62r
+		Sit_up: 114r
+		Stretch_Legs: 10r
+		Push_out: 28r: 90
+
+	<log>:9/6/2016
+		Sit_up: 100r
+		Stretch_Legs: 10r
+		Push_out: 25r: 90
+		Push_up: 50r
+
+	<log>:9/5/2016
+		Chin_up: 1r
+		Pull_up: 1r
+		Stretch_Legs: 10r
+		Pull_forward: 25r
+		Pull_down: 25r: 90
+
+	<log>:9/2/2016
+		Chin_up: 1r
+		Pull_up: 1r
+		Stretch_Legs: 10r
+		Pull_forward: 50r
+		Pull_down: 50r: 80
+
+	<log>:9/1/2016
+		Sit_up: 93r
+		Stretch_Legs: 10r
+		Push_out: 46r: 80
+		Push_up: 40r
+
+	<log>:8/30/2016
+		Sit_up: 90r
+		Stretch_Legs: 10r
+		Push_out: 42r: 80
+		Push_up: 52r
+
+	<log>:8/26/2016
+		Chin_up: 1r
+		Pull_up: 1r
+		Stretch_Legs: 10r
+		Pull_forward: 43r
+		Pull_down: 43r: 80
+
+	<log>:8/25/2016
+		Sit_up: 90r
+		Stretch_Legs: 10r
+		Push_out: 37r: 80
+		Push_up: 53r
+
+	<log>:8/22/2016
+		Chin_up: 2r
+		Pull_up: 2r
+		Stretch_Legs: 10r
+		Pull_forward: 37r
+		Pull_down: 37r: 80
+
+	<log>:8/20/2016
+		Sit_up: 87r
+		Stretch_Legs: 10r
+		Push_out: 31r: 80
+		Push_up: 66r
+
+	<log>:8/19/2016
+		Chin_up: 1r
+		Pull_up: 1r
+		Stretch_Legs: 10r
+		Pull_forward: 34r
+		Pull_down: 34r: 80
+
+	<log>:8/17/2016
+		Chin_up: 1r
+		Pull_up: 1r
+		Stretch_Legs: 10r
+		Pull_forward: 34r
+		Pull_down: 34r: 80
+
+	<log>:8/16/2016
+		Sit_up: 81r
+		Stretch_Legs: 10r
+		Push_out: 0r: 0
+		Push_up: 60r
+
+	<log>:8/15/2016
+		Chin_up: 1r
+		Pull_up: 1r
+		Stretch_Legs: 10r
+		Pull_forward: 31r
+		Pull_down: 31r: 80
+
+	<log>:8/12/2016
+		Chin_up: 1r
+		Pull_up: 1r
+		Stretch_Legs: 10r
+		Pull_forward: 28r
+		Pull_down: 28r: 80
+
+	<log>:8/11/2016
+		Sit_up: 78r
+		Stretch_Legs: 10r
+		Push_out: 25r: 80
+		Push_up: 45r
+
+	<log>:8/10/2016
+		Chin_up: 1r
+		Pull_up: 1r
+		Stretch_Legs: 10r
+		Pull_forward: 25r
+		Pull_down: 25r: 80
+
+	<log>:8/5/2016
+		Pull_up: 1r
+		Plank: 75r
+		Stretch_Legs: 0r
+		Push_up: 40r
+
+	<log>:8/4/2016
+		Pull_forward: 47r: 70
+		Push_out: 47r: 70
+		Pull_down: 47r: 70
+
+	<log>:8/1/2016
+		Pull_up: 1r
+		Plank: 72r
+		Stretch_Legs: 0r
+		Push_up: 30r
+
+	<log>:7/25/2016
+		Pull_up: 1r
+		Plank: 72r
+		Stretch_Legs: 0r
+		Push_up: 55r
+
+	<log>:7/13/2016
+		Pull_up: 1r
+		Plank: 63r
+		Stretch_Legs: 0r
+		Push_up: 63r
+
+	<log>:7/12/2016
+		Pull_forward: 34r: 70
+		Push_out: 34r: 70
+		Pull_down: 34r: 70
+
+	<log>:7/8/2016
+		Pull_up: 1r
+		Plank: 63r
+		Stretch_Legs: 0r
+		Push_up: 60r
+
+	<log>:7/6/2016
+		Pull_up: 1r
+		Plank: 20r
+		Stretch_Legs: 0r
+		Push_up: 20r
+	<log>:7/5/2016
+		SwordPlay: 0r
+		Pull_forward: 31r: 70
+		Push_out: 31r: 70
+		Pull_down: 31r: 70
+
+	<log>:6/29/2016
+		Plank: 66r
+		Stretch_Legs: 0r
+		Push_up: 66r
+	<log>:6/28/2016
+		SwordPlay: 0r
+		Pull_forward: 25r: 70
+		Push_out: 25r: 70
+		Pull_down: 25r: 70
+		Pull_forward: 25r: 70
+		Pull_down: 25r: 70
+
+	<log>:6/27/2016
+		Chair_Dip: 0r
+		Plank: 63r
+		Stretch_Legs: 0r
+		Push_up: 63r
+	<log>:6/23/2016
+		SwordPlay: 0r
+		Pull_forward: 50r: 60
+		Push_out: 50r: 60
+		Extend_ups: 25r: 22
+		Pull_down: 50r: 60
+	<log>:6/21/2016
+		SwordPlay: 0r
+		Pull_forward: 50r: 60
+		Push_out: 50r: 60
+		Extend_ups: 25r: 44
+		Pull_down: 50r: 60
+
+	<log>:6/20/2016
+		Chair_Dip: 90r
+		Plank: 60r
+		Stretch_Legs: 0r
+		Push_up: 60r
+
+	<log>:6/13/2016
+		Chair_Dip: 90r
+		Plank: 60r
+		Push_up: 60r
+
+	<log>:6/9/2016
+		SwordPlay: 0r
+		Pull_forward: 50r: 60
+		Push_out: 50r: 60
+		Extend_ups: 28r: 22
+		Pull_down: 50r: 60
+
+	<log>:6/8/2016
+		Chair_Dip: 90r
+		Plank: 60r
+		Push_up: 60r
+
+	<log>:6/7/2016
+		SwordPlay: 0r
+		Pull_forward: 50r: 60
+		Push_out: 50r: 60
+		Extend_ups: 25r: 22
+		Pull_down: 50r: 60
+
+	<log>:6/6/2016
+		Chair_Dip: 87r
+		Plank: 87r
+		Stretch_Legs: 0r
+		Push_up: 57r
+
+	<log>:6/3/2016
+		Chair_Dip: 28r
+		Plank: 28r
+		Stretch_Legs: 0r
+		Push_up: 18r
+
+		SwordPlay: 0r
+		Pull_forward: 46r: 60
+		Push_out: 46r: 60
+		Extend_ups: 22r: 22
+		Pull_down: 46r: 60
+
+		SwordPlay: 0r
+		Pull_forward: 43r: 60
+		Push_out: 43r: 60
+		Extend_ups: 19r: 22
+		Pull_down: 43r: 60
+
+	<log>:5/24/2016
+		SwordPlay: 0r
+		Pull_forward: 37r: 60
+		Push_out: 37r: 60
+		Extend_ups: 19r: 22
+		Pull_down: 37r: 60
+
+	<log>:5/23/2016
+		Chair_Dip: 25r
+		Plank: 25r
+		Stretch_Legs: 0r
+		Push_up: 15r
+
+	<log>:5/18/2016
+		Chair_Dip: 69r
+		Plank: 69r
+		Stretch_Legs: 0r
+		Push_up: 39r
+
+	<log>:5/19/2016
+		SwordPlay: 0r
+		Pull_forward: 34r: 60
+		Push_out: 34r: 60
+		Extend_ups: 16r: 22
+		Pull_down: 34r: 60
+
+	<log>:5/16/2016
+		Chair_Dip: 66r
+		Stretch_Legs: 0r
+		Push_up: 36r
+
+	<log>:5/11/2016
+		Chair_Dip: 60r
+		Plank: 60r
+		Push_up: 30r
+
+	<log>:5/10/2016
+		Pull_forward: 28r: 60
+		Push_out: 28r: 60
+		Extend_ups: 22r: 22
+		Pull_down: 28r: 60
+
+	<log>:5/3/2016
+		SwordPlay: 1r
+		Pull_forward: 25r: 60
+		Push_out: 25r: 60
+		Extend_ups: 10r: 22
+		Pull_down: 25r: 60
+
+	<log>:4/28/2016
+		SwordPlay: 0r
+		Pull_forward: 25r: 60
+		Push_out: 25r: 60
+		Extend_ups: 10r: 22
+		Pull_down: 25r: 60
